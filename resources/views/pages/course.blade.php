@@ -1,5 +1,5 @@
  @extends('master')
- @section('about')
+ @section('content')
      <h2>course</h2>
      <h5>Title description, Sep 2, 2025</h5>
      <div style="height:200px;

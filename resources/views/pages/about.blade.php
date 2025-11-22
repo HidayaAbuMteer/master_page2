@@ -1,7 +1,7 @@
 @extends('master')
 
 
-@section('about')
+@section('content')
     <div style=" display: flex;
             flex-direction: row;">
 
